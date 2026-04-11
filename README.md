@@ -1,3 +1,5 @@
+![5400479](https://github.com/user-attachments/assets/2d3058cb-f6dc-44d4-8fde-8c6b084b051b)
+
 ## 📱 Mobile Financial Service (MFS) Simulation App  
 
 I built a small **Mobile Financial Service (MFS) simulation app** while learning JavaScript. This project was developed independently as part of my practice to strengthen my **programming logic** and **problem-solving skills**.  
